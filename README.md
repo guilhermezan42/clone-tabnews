@@ -1,2 +1,3 @@
 # clone-tabnews
-Meu primeiro repositório público 
+
+Meu primeiro repositório público
