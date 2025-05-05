@@ -1,0 +1,7 @@
+services:
+  db:
+    image: "postgres:16.8-alpine3.21"
+    environment:
+      POSTGRES_PASSWORD: "te_amo_pai"
+    ports:
+      - 5432:5432
